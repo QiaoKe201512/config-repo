@@ -1,3 +1,2 @@
 polar:
-  greeting:
-    message: "Prod-Hello, Github!"
+  greeting: "Prod-Hello, Github!"
